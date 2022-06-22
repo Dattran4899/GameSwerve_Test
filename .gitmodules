@@ -1,0 +1,6 @@
+[submodule "Assets/Scripts/SharingCode"]
+	path = Assets/Scripts/SharingCode
+	url = git@github.com:mechmasterstudio/mech-sharing-code.git
+[submodule "Assets/GameFoundation"]
+	path = Assets/GameFoundation
+	url = git@github.com:mechmasterstudio/GameFoundation.git
