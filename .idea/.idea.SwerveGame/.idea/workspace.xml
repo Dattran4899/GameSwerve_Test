@@ -4,46 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4622e77-8f27-40c1-9c4c-b13e47fe8e68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Packages/Owner.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Packages/Owner/Balls.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Packages/Owner/Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Packages/Owner/Roads.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Packages/Owner/Scenes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Packages/Owner/Scenes/Menu.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Packages/Owner/Scenes/Menu.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Packages/Owner/Scenes/Play.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Packages/Owner/Scenes/Play.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/The_Village_(120bpm)_proud_music_128_preview.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/The_Village_(120bpm)_proud_music_128_preview.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/To_the_Arms_(113bpm)_proud_music_128_preview.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/To_the_Arms_(113bpm)_proud_music_128_preview.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SwerveScript/MenuSwerve/SoundManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SwerveScript/MenuSwerve/SoundManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TainguyenGame/Casual Game GUI Pack Resources/SourceFiles/backdat1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TainguyenGame/Casual Game GUI Pack Resources/SourceFiles/backdat1.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/iconball.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/iconball.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserSettings/Search.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SwerveGame.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SwerveGame.dir/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b4622e77-8f27-40c1-9c4c-b13e47fe8e68" name="Changes" comment="test commit">
+      <change afterPath="$PROJECT_DIR$/Assets/TainguyenGame/Casual Game GUI Pack Resources/Prefabs/Prefabs_Buttons/iconball.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TainguyenGame/Casual Game GUI Pack Resources/Prefabs/Prefabs_Buttons/iconball.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TainguyenGame/UI/Mainmenu.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TainguyenGame/UI/Mainmenu.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TainguyenGame/UI/balldat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TainguyenGame/UI/balldat.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TainguyenGame/UI/iconball.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TainguyenGame/UI/iconball.jpg.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SwerveGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SwerveGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Owner.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Owner.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Owner/Balls.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Owner/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Owner/Roads.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Owner/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Owner/Scenes.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Owner/Scenes/Play.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Owner/Scenes/Play.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/DOTweenSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/DOTweenSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Search.settings" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Search.settings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/iconball.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/iconball.jpg.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,8 +99,16 @@
       <workItem from="1655956686051" duration="406000" />
       <workItem from="1656305211278" duration="267000" />
       <workItem from="1656316537417" duration="5467000" />
-      <workItem from="1656380096787" duration="313000" />
+      <workItem from="1656380096787" duration="2366000" />
     </task>
+    <task id="LOCAL-00001" summary="test commit">
+      <created>1656380463871</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656380463871</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,5 +134,7 @@
       <path value="$PROJECT_DIR$/Assets/Scripts/SharingCode" />
     </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
   </component>
 </project>
